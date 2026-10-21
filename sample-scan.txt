@@ -1,0 +1,27 @@
+Sample Network Scan
+
+Project: Network Security Assessment
+
+Purpose:
+Document Nmap scan results from an authorized lab.
+
+Target:
+Not scanned yet.
+
+Tool:
+Nmap
+
+Scan Command:
+Not recorded yet.
+
+Open Ports:
+No results available yet.
+
+Running Services:
+No results available yet.
+
+Security Findings:
+Pending lab assessment.
+
+Recommendations:
+To be added after analyzing actual scan results.
